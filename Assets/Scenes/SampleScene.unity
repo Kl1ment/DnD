@@ -277,6 +277,7 @@ MonoBehaviour:
   _startingRoom: {fileID: 3405120722614622793, guid: 528f4ae6951ede34188a72d8592f944e, type: 3}
   _rooms:
   - {fileID: 3405120722614622793, guid: 528f4ae6951ede34188a72d8592f944e, type: 3}
+  - {fileID: 3405120722614622793, guid: 8d7ea460ab66d0344bf5fd17ae10bebf, type: 3}
   _maxRooms: 10
   _xHallway: {fileID: 3729351994004613588, guid: 27c65b465df208e47800e7960fbb74db, type: 3}
   _angleHallway: {fileID: 3729351994004613588, guid: 1cc874c7e7980f84ea7921a5b0e9dc6e, type: 3}
@@ -356,7 +357,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2094215491}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3a1204a6ce92f6d4aa610737ca18f5ed, type: 3}
   m_Name: 
